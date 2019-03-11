@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateAGroupJoin", "CreateA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqQueryMethods", "LinqQueryMethods\LinqQueryMethods.csproj", "{F5C02A22-634D-4CBA-8452-1AE9B9442D98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToArrayMethod", "ToArrayMethod\ToArrayMethod.csproj", "{93C0D91F-3705-4441-9C18-E35A7A8A9D3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F5C02A22-634D-4CBA-8452-1AE9B9442D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5C02A22-634D-4CBA-8452-1AE9B9442D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5C02A22-634D-4CBA-8452-1AE9B9442D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C0D91F-3705-4441-9C18-E35A7A8A9D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C0D91F-3705-4441-9C18-E35A7A8A9D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C0D91F-3705-4441-9C18-E35A7A8A9D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C0D91F-3705-4441-9C18-E35A7A8A9D3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
